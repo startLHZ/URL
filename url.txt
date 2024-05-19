@@ -3,3 +3,6 @@ https://subingwen.cn/
 
 图形化编译网站
 https://pythontutor.com/cpp.html#mode=edit
+
+ubuntu22.04 + ros：noetic + docker安装
+https://www.zhihu.com/tardis/zm/art/552273212?source_id=1005
