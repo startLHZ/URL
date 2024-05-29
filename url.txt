@@ -6,3 +6,6 @@ https://pythontutor.com/cpp.html#mode=edit
 
 ubuntu22.04 + ros：noetic + docker安装
 https://www.zhihu.com/tardis/zm/art/552273212?source_id=1005
+
+docker安装
+https://vuepress.mirror.docker-practice.com/install/ubuntu/#%E4%BD%BF%E7%94%A8-apt-%E5%AE%89%E8%A3%85
