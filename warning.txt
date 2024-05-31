@@ -6,3 +6,6 @@ sudo ufw allow ssh
 
 root su
 sudo passwd root
+
+simulink-rl + carsim联仿崩溃
+更改 rlSimulinkEnv.m 中的'UseFastRestart'为 off
