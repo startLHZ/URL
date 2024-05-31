@@ -9,3 +9,13 @@ sudo passwd root
 
 simulink-rl + carsim联仿崩溃
 更改 rlSimulinkEnv.m 中的'UseFastRestart'为 off
+
+git
+git push 版本落后由于冲突无法合并
+git stash
+git pull
+git stash pop
+git add .
+git commit
+git push
+(未测试可行性)
